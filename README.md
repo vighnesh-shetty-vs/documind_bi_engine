@@ -6,14 +6,6 @@
 [![Powered by Gemini](https://img.shields.io/badge/Powered%20by-Google%20Gemini-blue)](https://ai.google.dev/)
 [![Python](https://img.shields.io/badge/Built%20with-Python-yellow)](https://www.python.org/)
 
----
-
-## ⚡ Quick Start (Demo Access)
-
-Want to try the app immediately? You can use this **Test API Key** to unlock the dashboard features without creating your own Google Cloud account.
-
-* **Test Key:** `AIzaSyCQ9ShPiz3f1avJ4v_zpm21nAlbd7g4IFE`
-    *(Note: This key is for demonstration/testing purposes only. Please use your own key for production use.)*
 
 ---
 
