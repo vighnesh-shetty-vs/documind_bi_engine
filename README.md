@@ -93,4 +93,4 @@ To see the "Risk Analysis" in action, try uploading these conflicting documents:
 
 Building tools that turn **Unstructured Data** into **Business Decisions**.
 
-[LinkedIn Profile]([https://www.linkedin.com/in/vighnesh-shetty-vs/](https://www.linkedin.com/in/vighnesh-shetty/))
+[LinkedIn Profile](https://www.linkedin.com/in/vighnesh-shetty/)
