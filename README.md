@@ -34,18 +34,18 @@ In the modern enterprise, critical data is often locked inside unstructured PDFs
 
 ### 1. Automated Risk Audit (Compliance Dashboard)
 *The AI acts as a Senior Risk Analyst, scanning contracts for unlimited liability, zero warranties, and ambiguous terms.*
-![Risk Dashboard](screenshots/risk_audit_1.png)
+![Risk Dashboard](assets/risk_audit_1.png)
 
 *Visualizing the severity of detected risks in real-time.*
-![Risk Factors](screenshots/risk_audit_2.png)
+![Risk Factors](assets/risk_audit_2.png)
 
 ### 2. Strategic Cross-Referencing (RAG)
 *Instead of simple Q&A, the engine finds discrepancies across different file types (Contracts vs. Internal Memos).*
-![Cross Reference Chat](screenshots/cross_reference_2.png)
+![Cross Reference Chat](assets/cross_reference_2.png)
 
 ### 3. Executive Briefing
 *Generates C-Suite level summaries highlighting contradictions and financial exposure.*
-![Executive Brief](screenshots/executive_brief_2.png)
+![Executive Brief](assets/executive_brief_2.png)
 
 ---
 
